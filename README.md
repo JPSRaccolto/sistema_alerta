@@ -117,7 +117,7 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 5. Abra um Pull Request.
 
 ## 📽️ Demonstração em Vídeo
-- O vídeo de demonstração do projeto pode ser visualizado aqui: [Drive]()
+- O vídeo de demonstração do projeto pode ser visualizado aqui: [Drive](https://drive.google.com/file/d/1IUb76yNS-3-cBh5DgnDbzbEdSQXPKAor/view?usp=sharing)
 
 ## 💡 Considerações Finais
 Este projeto demonstra a implementação de um sistema de monitoramento e alerta de inundações utilizando o Raspberry Pi Pico com FreeRTOS. O sistema é capaz de monitorar o nível de água e a intensidade de chuva, exibindo essas informações em um display OLED e acionando alertas visuais e sonoros quando condições críticas são detectadas.
